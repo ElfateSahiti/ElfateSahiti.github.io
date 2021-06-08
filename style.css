@@ -14,11 +14,6 @@ body{
     background-position: center center;   
     background-attachment: fixed;
   }
-  @media screen and (max-width:339px) {
-    .EB-home-page{
-      background-position: top;
-    }
-}
 
   
   .EB-bg-with-color
