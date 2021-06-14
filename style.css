@@ -368,7 +368,9 @@ body{
     color: white !important;
     text-decoration: none;
   }
-  
+  .contact-left{
+    padding-bottom: 40px;
+  }
   .EB-contact-form {
     box-shadow: 0px 12px 32px 5px rgba(0,0,0,0.05);
     box-sizing: border-box;
