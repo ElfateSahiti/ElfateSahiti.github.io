@@ -24,7 +24,7 @@ body{
   .EB-card-body{
     padding: none;
   }
-  .page-footer{
+  #page-footer{
     background-color: #070708da;
     color: white !important;
   }
