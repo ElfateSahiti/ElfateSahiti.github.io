@@ -486,6 +486,12 @@ body{
     padding-top: 56.25%;
   }
   
+  @media screen and (max-width : 996px){
+   #dropdown{
+     padding-top: 28px;
+   }
+
+}
   
   
   @media screen and (max-width:510px) {
