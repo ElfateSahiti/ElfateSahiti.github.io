@@ -15,7 +15,7 @@ body{
     background-attachment: fixed;
    
   }
-  @media screen and (max-width:320px) {
+  @media screen and (max-width:375px) {
     .EB-home-page {
       background-size: auto;
       background-image: url("images/sport.jpg");
@@ -26,7 +26,7 @@ body{
     padding: none;
   }
   #page-footer{
-    background-color: #121212;
+    background-color: #121212!important;
     color: white !important;
   }
   #decoration{
