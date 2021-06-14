@@ -512,3 +512,11 @@ body{
   {
     width: 400px;
   }
+
+  @media screen and (max-width:480px) {
+    .EB-home-page{
+      background-size: cover;
+
+    }
+  }
+  
