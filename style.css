@@ -28,6 +28,9 @@ body{
     background-color: #070708da;
     color: white !important;
   }
+  #decoration{
+    text-decoration: none;
+  }
   
   .EB-bg-with-color
   {
@@ -269,6 +272,7 @@ body{
   }
   #about-info{
     background-color: #232325;
+    padding-bottom: 100px;
   }
   #third-div{
     padding-top: 100px;
