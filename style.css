@@ -178,7 +178,9 @@ body{
   color: white;
   padding-bottom: 22px;
   }
- 
+ #card{
+  padding-bottom: 22px;
+ }
  
   #main {
     text-align: center;
