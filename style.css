@@ -15,17 +15,18 @@ body{
     background-attachment: fixed;
    
   }
-  @media screen and (max-width:480px) {
+  @media screen and (max-width:320px) {
     .EB-home-page {
       background-size: auto;
-      background-position-y: center;
-  }
+      background-image: url("images/sport.jpg");
+
+    }
   }
   .EB-card-body{
     padding: none;
   }
   #page-footer{
-    background-color: #070708da;
+    background-color: #121212;
     color: white !important;
   }
   #decoration{
