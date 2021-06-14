@@ -21,6 +21,13 @@ body{
       background-position-y: center;
   }
   }
+  .EB-card-body{
+    padding: none;
+  }
+  .page-footer{
+    background-color: #070708da;
+    color: white !important;
+  }
   
   .EB-bg-with-color
   {
