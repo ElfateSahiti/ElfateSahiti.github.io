@@ -15,7 +15,11 @@ body{
     background-attachment: fixed;
    
   }
-
+  @media screen and (max-width:480px) {
+    .EB-home-page {
+      background-size: auto;
+  }
+  }
   
   .EB-bg-with-color
   {
