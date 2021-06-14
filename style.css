@@ -15,13 +15,7 @@ body{
     background-attachment: fixed;
    
   }
-  @media screen and (max-width:375px) {
-    .EB-home-page {
-      background-size: auto;
-      background-image: url("images/sport.jpg");
-
-    }
-  }
+ 
   .EB-card-body{
     padding: none;
   }
