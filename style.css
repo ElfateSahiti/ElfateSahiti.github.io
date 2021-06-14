@@ -13,6 +13,7 @@ body{
     background-repeat: no-repeat;
     background-position: center center;   
     background-attachment: fixed;
+    display: flex;
   }
 
   
@@ -368,7 +369,7 @@ body{
     color: white !important;
     text-decoration: none;
   }
-  .contact-left{
+  #blog{
     padding-bottom: 40px;
   }
   .EB-contact-form {
